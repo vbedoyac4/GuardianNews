@@ -61,7 +61,7 @@ npm (v6 or higher)
 
 #### Clone the repository:
 
-git clone https://github.com/yourusername/guardian-news-ui.git
+git clone https://github.com/vbedoyac4/GuardianNews
 
 Install node modules:
 
