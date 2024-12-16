@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuardianNewsApp.Domain", "GuardianNewsApp.Domain\GuardianNewsApp.Domain.csproj", "{0AC7BD3A-159B-41BB-BE61-FDBDFC09E20F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuardianNewsApp.Application", "GuardianNewsApp.Application\GuardianNewsApp.Application.csproj", "{BD4DAB43-91C4-4AB3-8861-F875E08D835E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuardianNewsApp.Infrastructure", "GuardianNewsApp.Infrastructure\GuardianNewsApp.Infrastructure.csproj", "{07968ACB-DF21-4BF5-AC15-613A164C32EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuardianNewsApp.API", "GuardianNewsApp.API\GuardianNewsApp.API.csproj", "{77AA0D31-AF26-4A41-9C3D-3955B6CFC7BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuardianNewsApp.Worker", "GuardianNewsApp.Worker\GuardianNewsApp.Worker.csproj", "{58AD7194-2E9F-4D01-8FCE-E957894C9EEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AC7BD3A-159B-41BB-BE61-FDBDFC09E20F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AC7BD3A-159B-41BB-BE61-FDBDFC09E20F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AC7BD3A-159B-41BB-BE61-FDBDFC09E20F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AC7BD3A-159B-41BB-BE61-FDBDFC09E20F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD4DAB43-91C4-4AB3-8861-F875E08D835E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD4DAB43-91C4-4AB3-8861-F875E08D835E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD4DAB43-91C4-4AB3-8861-F875E08D835E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD4DAB43-91C4-4AB3-8861-F875E08D835E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07968ACB-DF21-4BF5-AC15-613A164C32EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07968ACB-DF21-4BF5-AC15-613A164C32EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07968ACB-DF21-4BF5-AC15-613A164C32EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07968ACB-DF21-4BF5-AC15-613A164C32EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77AA0D31-AF26-4A41-9C3D-3955B6CFC7BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77AA0D31-AF26-4A41-9C3D-3955B6CFC7BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77AA0D31-AF26-4A41-9C3D-3955B6CFC7BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77AA0D31-AF26-4A41-9C3D-3955B6CFC7BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58AD7194-2E9F-4D01-8FCE-E957894C9EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58AD7194-2E9F-4D01-8FCE-E957894C9EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58AD7194-2E9F-4D01-8FCE-E957894C9EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58AD7194-2E9F-4D01-8FCE-E957894C9EEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {485FCC5F-2F41-42B0-BAC9-D8CA529D2F53}
+	EndGlobalSection
+EndGlobal

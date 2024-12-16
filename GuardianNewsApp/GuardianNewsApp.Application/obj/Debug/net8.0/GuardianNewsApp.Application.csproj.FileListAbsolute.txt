@@ -1,0 +1,15 @@
+C:\Users\vivia\source\repos\GuardianInsights\GuardianNewsApp\GuardianNewsApp.Application\bin\Debug\net8.0\GuardianNewsApp.Application.deps.json
+C:\Users\vivia\source\repos\GuardianInsights\GuardianNewsApp\GuardianNewsApp.Application\bin\Debug\net8.0\GuardianNewsApp.Application.dll
+C:\Users\vivia\source\repos\GuardianInsights\GuardianNewsApp\GuardianNewsApp.Application\bin\Debug\net8.0\GuardianNewsApp.Application.pdb
+C:\Users\vivia\source\repos\GuardianInsights\GuardianNewsApp\GuardianNewsApp.Application\bin\Debug\net8.0\GuardianNewsApp.Domain.dll
+C:\Users\vivia\source\repos\GuardianInsights\GuardianNewsApp\GuardianNewsApp.Application\bin\Debug\net8.0\GuardianNewsApp.Domain.pdb
+C:\Users\vivia\source\repos\GuardianInsights\GuardianNewsApp\GuardianNewsApp.Application\obj\Debug\net8.0\GuardianNewsApp.Application.csproj.AssemblyReference.cache
+C:\Users\vivia\source\repos\GuardianInsights\GuardianNewsApp\GuardianNewsApp.Application\obj\Debug\net8.0\GuardianNewsApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivia\source\repos\GuardianInsights\GuardianNewsApp\GuardianNewsApp.Application\obj\Debug\net8.0\GuardianNewsApp.Application.AssemblyInfoInputs.cache
+C:\Users\vivia\source\repos\GuardianInsights\GuardianNewsApp\GuardianNewsApp.Application\obj\Debug\net8.0\GuardianNewsApp.Application.AssemblyInfo.cs
+C:\Users\vivia\source\repos\GuardianInsights\GuardianNewsApp\GuardianNewsApp.Application\obj\Debug\net8.0\GuardianNewsApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\vivia\source\repos\GuardianInsights\GuardianNewsApp\GuardianNewsApp.Application\obj\Debug\net8.0\Guardian.9ECDE9BB.Up2Date
+C:\Users\vivia\source\repos\GuardianInsights\GuardianNewsApp\GuardianNewsApp.Application\obj\Debug\net8.0\GuardianNewsApp.Application.dll
+C:\Users\vivia\source\repos\GuardianInsights\GuardianNewsApp\GuardianNewsApp.Application\obj\Debug\net8.0\refint\GuardianNewsApp.Application.dll
+C:\Users\vivia\source\repos\GuardianInsights\GuardianNewsApp\GuardianNewsApp.Application\obj\Debug\net8.0\GuardianNewsApp.Application.pdb
+C:\Users\vivia\source\repos\GuardianInsights\GuardianNewsApp\GuardianNewsApp.Application\obj\Debug\net8.0\ref\GuardianNewsApp.Application.dll

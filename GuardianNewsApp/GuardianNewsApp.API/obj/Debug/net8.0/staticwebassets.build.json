@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jFY6uPzzG4J3fkN99dkIqbmZRf0ECZidCX7lfXTIkiE=",
+  "Source": "GuardianNewsApp.API",
+  "BasePath": "_content/GuardianNewsApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

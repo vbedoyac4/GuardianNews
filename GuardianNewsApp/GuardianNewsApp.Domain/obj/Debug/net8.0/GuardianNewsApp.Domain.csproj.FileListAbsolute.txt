@@ -1,0 +1,9 @@
+C:\Users\vivia\source\repos\GuardianInsights\GuardianNewsApp\GuardianNewsApp.Domain\bin\Debug\net8.0\GuardianNewsApp.Domain.deps.json
+C:\Users\vivia\source\repos\GuardianInsights\GuardianNewsApp\GuardianNewsApp.Domain\bin\Debug\net8.0\GuardianNewsApp.Domain.dll
+C:\Users\vivia\source\repos\GuardianInsights\GuardianNewsApp\GuardianNewsApp.Domain\bin\Debug\net8.0\GuardianNewsApp.Domain.pdb
+C:\Users\vivia\source\repos\GuardianInsights\GuardianNewsApp\GuardianNewsApp.Domain\obj\Debug\net8.0\GuardianNewsApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivia\source\repos\GuardianInsights\GuardianNewsApp\GuardianNewsApp.Domain\obj\Debug\net8.0\GuardianNewsApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vivia\source\repos\GuardianInsights\GuardianNewsApp\GuardianNewsApp.Domain\obj\Debug\net8.0\GuardianNewsApp.Domain.dll
+C:\Users\vivia\source\repos\GuardianInsights\GuardianNewsApp\GuardianNewsApp.Domain\obj\Debug\net8.0\refint\GuardianNewsApp.Domain.dll
+C:\Users\vivia\source\repos\GuardianInsights\GuardianNewsApp\GuardianNewsApp.Domain\obj\Debug\net8.0\GuardianNewsApp.Domain.pdb
+C:\Users\vivia\source\repos\GuardianInsights\GuardianNewsApp\GuardianNewsApp.Domain\obj\Debug\net8.0\ref\GuardianNewsApp.Domain.dll
